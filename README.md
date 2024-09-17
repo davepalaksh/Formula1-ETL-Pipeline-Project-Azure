@@ -39,10 +39,12 @@ Pipelines and Trigger
 Created Ingest Pipeline, Transform Pipeline, and Process Pipeline.
 Used Azure Trigger for automation.
 Orchestration ensures automated processing of raw and processed containers.
+<br>
 Azure Trigger
 Utilized tumbling window trigger for triggering based on past date data.
 Customized triggers for specific date ranges.
 Budget Analysis For Project
+<br>
 Total cost incurred: Rs. 3200, surpassing the Rs. 3000 budget.
 Major costs from Azure Databricks for compute and ADLS for storage.
 Cluster timeout management helped in cost control.
