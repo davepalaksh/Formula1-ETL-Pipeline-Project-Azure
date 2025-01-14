@@ -110,7 +110,6 @@ races_selected_df = races_with_timestamp_df.select(
     col("race_timestamp")
 )
 
-
 # COMMAND ----------
 
 display(races_selected_df)
